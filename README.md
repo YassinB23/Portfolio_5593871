@@ -1,6 +1,17 @@
 # testprojekt
 
-A new Flutter project.
+Das ist mein Flutter-Projekt für das Praktikum im Sommersemester 2025 im Fach Entwicklung grafischer Benutzeroberflächen. 
+
+## Flutter-Version 
+
+Flutter 3.29.3
+
+## Projekt start
+
+Projekt lokal starten: 
+Flutter installieren
+Im Terminal ins Projektverzeichnis wechseln (cd C:\Users\Yassi\testprojekt)
+App Starten
 
 ## Getting Started
 
