@@ -2,6 +2,9 @@
 
 Das ist mein Flutter-Projekt für das Praktikum im Sommersemester 2025 im Fach Entwicklung grafischer Benutzeroberflächen. 
 
+# E-Mail Adresse 
+yassin.philippe.barrere@thm.mnd.de
+
 ## Flutter-Version 
 
 Flutter 3.29.3
